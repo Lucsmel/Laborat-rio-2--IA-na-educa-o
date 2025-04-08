@@ -1,5 +1,5 @@
 learner:
-  description: "Schema for a single learner’s profile and performance data"
+  description: "Pessoa interessada em aprender sobre o esporte Basquete"
   type: dict
   properties:
     id:
